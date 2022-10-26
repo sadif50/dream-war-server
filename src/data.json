@@ -1,0 +1,68 @@
+[
+    {
+        "_id" : "01",
+        "name" : "Modern React with Redux",
+        "duration" : "15 hr 33 min",
+        "ratings" : "5",
+        "totalEnlors" : "27,245",
+        "course_logo" : "https://i.postimg.cc/1zYKFb78/react-redux.webp",
+        "price" : "299.90",
+        "details" : "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+        "overview" : ["Create dynamic web apps using the latest in web technology", "Acquire the programming skills needed to obtain a software engineering job", "Practice your skills with many large projects, exercises, and quizzes", "Master the fundamentals concepts behind React and Redux"]
+    },
+    {
+        "_id" : "02",
+        "name" : "Learn C Basics",
+        "duration" : "5 hr 15 min",
+        "ratings" : "4",
+        "totalEnlors" : "2245",
+        "course_logo" : "https://i.postimg.cc/NjK71BSR/c.webp",
+        "price" : "18.90",
+        "details" : "C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained",
+        "overview" : ["Understand the fundamentals of the C Programming Language", "Understand variables and the different data types", "Understand the core language that most modern languages are based on", "Make yourself more marketable for entry level programming positions"]
+    },
+    {
+        "_id" : "03",
+        "name" : "Learn C# Programming",
+        "duration" : "8 hr 45 min",
+        "ratings" : "5",
+        "totalEnlors" : "15936",
+        "course_logo" : "https://i.postimg.cc/g2m4bV62/csharp.webp",
+        "price" : "189.90",
+        "details" : "Start making games in Unity by learning the basics of Unity C# scripting.",
+        "overview" : ["Learn basic C# code","Learn most common script commands","Learn about variables, conditional statements, components and more","Create a complete target shooter game"]
+    },
+    {
+        "_id" : "04",
+        "name" : "Advanced CSS and Sass",
+        "duration" : "3 hr 32 min",
+        "ratings" : "4.9",
+        "totalEnlors" : "8498",
+        "course_logo" : "https://i.postimg.cc/YSS3htRc/sass.webp",
+        "price" : "59.90",
+        "details" : "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+        "overview" : ["Tons of modern CSS techniques to create stunning designs and effects","Advanced CSS animations with @keyframes, animation and transition","How CSS works behind the scenes: the cascade, specificity, inheritance, etc.","CSS architecture: component-based design, BEM, writing reusable code, etc."]
+    },
+    {
+        "_id" : "05",
+        "name" : "Learn Python Programming Masterclass",
+        "duration" : "10 hr 35 min",
+        "ratings" : "4.5",
+        "totalEnlors" : "10385",
+        "course_logo" : "https://i.postimg.cc/wMD5SMqN/python.webp",
+        "price" : "99.99",
+        "details" : "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3",
+        "overview" : ["Have a fundamental understanding of the Python programming language.","Have the skills and understanding of Python to confidently apply for Python programming jobs.","Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science, etc.","Add the Python Object-Oriented Programming (OOP) skills to your resume."]
+    },
+    {
+        "_id" : "06",
+        "name" : "Data Structures & Algorithms - Java",
+        "duration" : "7 hr 20 min",
+        "ratings" : "4.8",
+        "totalEnlors" : "5534",
+        "course_logo" : "https://i.postimg.cc/SQ9GXT6K/dsa.webp",
+        "price" : "89.99",
+        "details" : "Java DSA for Coding Interview with Animated Examples -- Watch Intro Video to See the Advantage of Learning Visually",
+        "overview" : ["Mastery of Data Structures and Algorithms","Confidently answer technical interview questions","Time and Space Complexity of Data Structures and Algorithms","Strengthen your skills as a developer"]
+    }
+]
