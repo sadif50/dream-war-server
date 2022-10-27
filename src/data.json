@@ -1,14 +1,14 @@
 [
     {
         "_id" : "01",
-        "name" : "Modern React with Redux",
+        "name" : "Go: The Complete Developer's Guide (Golang)",
         "duration" : "15 hr 33 min",
         "ratings" : "5",
-        "totalEnlors" : "27,245",
-        "course_logo" : "https://i.postimg.cc/1zYKFb78/react-redux.webp",
+        "totalEnlors" : "27245",
+        "course_logo" : "https://i.postimg.cc/5tJTVTGN/go.webp",
         "price" : "299.90",
-        "details" : "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
-        "overview" : ["Create dynamic web apps using the latest in web technology", "Acquire the programming skills needed to obtain a software engineering job", "Practice your skills with many large projects, exercises, and quizzes", "Master the fundamentals concepts behind React and Redux"]
+        "details" : "Master the fundamentals and advanced features of the Go Programming Language (Golang)",
+        "overview" : ["Build massively concurrent programs with Go Routines and Channels", "Understand the differences between commonly used data structures", "Apply Interfaces to dramatically simplify complex programs", "Learn the advanced features of Go"]
     },
     {
         "_id" : "02",
